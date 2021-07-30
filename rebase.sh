@@ -1,2 +1,2 @@
-s is rebase file
+spls joimnis rebase file
 pls folloe
